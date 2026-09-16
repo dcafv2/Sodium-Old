@@ -51,3 +51,5 @@ Sodium is a project by **CaffeineMC**.
 ## License
 
 See the repository's license files for licensing information.
+
+<img width="858" height="484" alt="image" src="https://github.com/user-attachments/assets/1bded033-4f65-4bd0-9798-572a676c3c13" />
